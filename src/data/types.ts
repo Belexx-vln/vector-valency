@@ -18,7 +18,6 @@ export interface Chapter {
   title: string;
   definitions?: Definition[];
   formulas: Formula[];
-  /** Future-ready slots: notes, solutions, pyqs, pdfs */
 }
 
 export interface Subject {
