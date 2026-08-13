@@ -259,7 +259,7 @@ export const physics: Subject = {
         { name: "Electromagnetic Spectrum Order", formula: "Radio < Microwave < IR < Visible < UV < X-ray < Gamma", explanation: "Ordered by increasing frequency (decreasing wavelength).", tier: "basic" },
       ],
     },
-      {
+    {
       slug: "ray-optics-and-optical-instruments",
       number: 9,
       title: "Ray Optics and Optical Instruments",
